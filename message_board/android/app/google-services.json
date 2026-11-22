@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "542750393524",
+    "project_id": "homework-2-364e9",
+    "storage_bucket": "homework-2-364e9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542750393524:android:053e43eb86c3b7dda483e1",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZfeazWWp5mbo3JZuXa-hsz2pj0Im9w_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542750393524:android:fb570ce5f0f585c2a483e1",
+        "android_client_info": {
+          "package_name": "com.example.message_board"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZfeazWWp5mbo3JZuXa-hsz2pj0Im9w_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
